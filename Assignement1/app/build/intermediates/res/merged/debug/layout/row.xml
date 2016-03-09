@@ -7,10 +7,11 @@
         android:id="@+id/checkBox1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:focusable="false"
         android:text="" />
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="TextView" />
-</LinearLayout><!-- From: file:/C:/Users/english/AndroidStudioProjects/Assignement1/app/src/main/res/layout/row.xml -->
+</LinearLayout><!-- From: file:/C:/Users/english/Desktop/Assignement1/app/src/main/res/layout/row.xml -->
